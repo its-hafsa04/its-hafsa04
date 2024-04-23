@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern-stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/hafsa-sajid-38bb4627b/
 - 😄 Pronouns: Hafsa
 - ⚡ Fun fact: 🙂
 
