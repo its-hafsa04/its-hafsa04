@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafsa Sajid</h1>
 <h3 align="center">A passionate Mern-Stack Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Mern-Stack,DSA,Database**
-
-- 📝 I regularly write articles on <a href="https://medium.com/@sajidhafsa23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sajidhafsa23" height="20" width="30" /></a>
+- 🌱 I’m currently learning **DSA,Database,Mern-Stack**
 
 - 📫 How to reach me <a href="https://linkedin.com/in/hafsa-sajid-38bb4627b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafsa-sajid-38bb4627b" height="20" width="30" /></a>
 <a href="https://instagram.com/sajidhafsa23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajidhafsa23" height="20" width="30" /></a>
