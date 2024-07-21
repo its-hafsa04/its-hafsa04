@@ -3,16 +3,12 @@
 
 - 🌱 I’m currently learning **DSA,Database,Mern-Stack**
 
-- 📫 How to reach me <a href="https://linkedin.com/in/hafsa-sajid-38bb4627b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafsa-sajid-38bb4627b" height="20" width="30" /></a>
-<a href="https://instagram.com/sajidhafsa23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajidhafsa23" height="20" width="30" /></a>
-<a href="https://fb.com/profile.php?id=100010268648729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010268648729" height="20" width="30" /></a>
+- 📫 How to reach me **sajidhafsa23@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hafsa-sajid-38bb4627b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafsa-sajid-38bb4627b" height="30" width="40" /></a>
-<a href="https://instagram.com/sajidhafsa23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajidhafsa23" height="30" width="40" /></a>
-  <a href="https://fb.com/profile.php?id=100010268648729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100010268648729" height="30" width="40" /></a>
 <a href="https://medium.com/@sajidhafsa23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sajidhafsa23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sajidhafsa23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajidhafsa23" height="30" width="40" /></a>
 </p>
