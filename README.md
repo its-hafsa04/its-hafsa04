@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafsa Sajid</h1>
 <h3 align="center">A passionate Mern-Stack Developer from Pakistan</h3>
-<img align="right" width="400px" alt="coding" src="https://camo.githubusercontent.com/4f2052b36ea664438d0f4760caedac15179d5dfe782517b192dbd4d46577a62b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77696c596f5f3777474b5941414141432f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966"/>
+<img align="right" width="400px" alt="coding" src="https://media.giphy.com/media/oQgIhA9CG8lUY/giphy.gif"/>
 
 - 🌱 I’m currently learning **Mern-Stack,DSA,and others...**
 
